@@ -1,2 +1,4 @@
 nbproject/
 random.txt
+.idea*
+npm-debug.log
